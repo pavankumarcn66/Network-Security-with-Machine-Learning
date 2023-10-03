@@ -19,7 +19,7 @@ Before we run the project, make sure that you are having MongoDB in your local s
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/sethusaim/Network-Security-with-Machine-Learning.git
+https://github.com/pavankumarcn66/Network-Security-with-Machine-Learning.git
 ```
 
 ### Step 2- Create a conda environment after opening the repository
